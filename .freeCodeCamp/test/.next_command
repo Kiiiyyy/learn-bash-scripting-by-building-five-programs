@@ -49,3 +49,4 @@ man echo
 s
 as
 touch countdown.sh
+chmod +x countdown.sh
