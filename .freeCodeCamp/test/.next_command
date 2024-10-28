@@ -45,3 +45,7 @@ man echo
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+./questionnaire.sh
+s
+as
+touch countdown.sh
