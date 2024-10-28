@@ -109,3 +109,7 @@ help [[
 ./countfoen.sh 1
 ./countdown.sh 1
 ./countdown.sh -1
+help [[
+help if
+help test
+help
