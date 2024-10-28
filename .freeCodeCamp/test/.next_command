@@ -93,3 +93,4 @@ ls --color=auto
 ls --color=auto -y
 __vsc_prompt_cmd_original
 help test
+[[ -a countdown.sh ]]
