@@ -148,3 +148,4 @@ help let
 echo I
 echo I
 echo $I
+$((I+4))
