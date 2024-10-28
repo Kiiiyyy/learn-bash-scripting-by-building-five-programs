@@ -113,3 +113,4 @@ help [[
 help if
 help test
 help
+./countdown.sh 10
