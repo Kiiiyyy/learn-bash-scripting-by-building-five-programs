@@ -186,3 +186,4 @@ echo ${ARR[@]}
 declare -p ARR
 ./FORTUNE.SH
 ./fortune.sh
+help
