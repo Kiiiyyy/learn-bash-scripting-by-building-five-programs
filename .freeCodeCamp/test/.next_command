@@ -62,3 +62,4 @@ help if
 __vsc_prompt_cmd_original
 ./countdown.sh anything
 ./countdown.sh anythi
+./countdown.sh 4
