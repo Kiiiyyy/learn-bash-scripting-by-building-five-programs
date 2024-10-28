@@ -57,3 +57,4 @@ rm a.out
 help
 man echo
 man if
+help if
