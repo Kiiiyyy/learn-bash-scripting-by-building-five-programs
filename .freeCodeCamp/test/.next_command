@@ -55,3 +55,5 @@ rm a.out
 ./countdown.sh arg1 arg2 arg3
 ./countdown.sh arg1 arg2 arg3
 help
+man echo
+man if
