@@ -104,3 +104,4 @@ chmod -x countdown.sh
 chmod +x countdown.sh
 [[ -x countdown.sh ]]
 help [[
+[[ -x countdown.sh && 5 -le 4 ]]
