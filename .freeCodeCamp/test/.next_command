@@ -217,3 +217,5 @@ as
 clear
 ./five.sh
 help
+type
+help type
