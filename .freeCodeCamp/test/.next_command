@@ -51,3 +51,4 @@ as
 touch countdown.sh
 chmod +x countdown.sh
 rm a.out
+./countdown.sh
