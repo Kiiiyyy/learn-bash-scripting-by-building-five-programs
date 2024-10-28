@@ -133,3 +133,6 @@ echo LANG
 echo $LANG
 declare -p
 echo $RANDOM
+./bing.sh
+./bingo.sh
+./bingo.sh
