@@ -103,3 +103,4 @@ chmod +x countdown.sh
 chmod -x countdown.sh
 chmod +x countdown.sh
 [[ -x countdown.sh ]]
+help [[
