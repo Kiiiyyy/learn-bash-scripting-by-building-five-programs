@@ -184,3 +184,5 @@ __vsc_prompt_cmd_original
 echo ${ARR[1]}
 echo ${ARR[@]}
 declare -p ARR
+./FORTUNE.SH
+./fortune.sh
