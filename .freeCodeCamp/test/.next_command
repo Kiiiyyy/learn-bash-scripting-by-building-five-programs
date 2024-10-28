@@ -145,3 +145,6 @@ echo $I
 echo $I
 help let
 ((I+=10))
+echo I
+echo I
+echo $I
